@@ -1,12 +1,17 @@
 title: <p align="center"> Merykokeb Belay </p>
-description: >
-  First Description
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/merykokeb-belay-bb228613b">LinkedIn</a> |
+  <a href="">GitHub</a>
+  </p>
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
   <br><br>
-  Second Description
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
   <br><br>
-  <a href="https://www.linkedin.com/in/merykokeb-belay-bb228613b">View my LinkedIn Profile</a>
-
-
+  </p>
+  
 theme: jekyll-theme-minimal 
  
  
