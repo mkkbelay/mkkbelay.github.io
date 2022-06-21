@@ -8,7 +8,22 @@
 <div style="text-align: justify">Data collection on sentiment is often hindered by the requirement that reviewers submit a discrete rating (stars) along with their textual review of a product or service. Many do not want to submit a rating and therefore avoid leaving a review at all.The goal of this project is to determine whether, and how well, unlabeled approaches to sentiment analysis (i.e.,lexical-based (TextBlob), transfer learning/DL (transformers))  approximate the actual star ratings that reviewers give.
 </div>
 
-## Welcome to GitHub Pages
+---
+
+### Quasi-experimental design to estimate the effect of political party on ideology
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/statistics_projects/blob/main/regression_discontinuity.pdf)
+<div style="text-align: justify">This project uses regression discontinuity design to determine if party membership matters </div>
+
+
+---
+
+### Predicting access to healthful food retailers
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/predicting_food_environments/blob/main/white_paper_mb2478_v2.pdf)
+<div style="text-align: justify">   </div>
+
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mkkbelay/mkkbelay.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -44,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
