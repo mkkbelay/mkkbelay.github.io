@@ -4,9 +4,9 @@
 ---
 
 ### Sentiment analysis of Yelp reviews: Should we do away with star ratings?
-
-<div style="text-align: justify">Data collection on sentiment is often hindered by the requirement that reviewers submit a discrete rating (stars) along with their textual review of a product or service. Many do not want to submit a rating and therefore avoid leaving a review at all. Eliminating the star-based requirement would expand the pool of reviewers as many are deterred by the requirement. How well do unlabeled sentiment analysis models approximate the actual reviews people leave? The goal of this modeling task is to determine whether, and how well, unlabeled approaches to sentiment analysis approximate the actual star ratings that reviewers give. To do this, this project will compare the unlabeled approaches--lexical-based (TextBlob), transfer learning/DL (transformers)--to the ground truth labels/ratings supplied by the customers and determine how well the alternative approaches perform. 
-[Project 1 Title](/sample_page)</div>[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/sentiment-analysis-yelp/blob/main/sentiment_analysis_yelp.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/sentiment-analysis-yelp/blob/main/sentiment_analysis_yelp.ipynb)
+<div style="text-align: justify">Data collection on sentiment is often hindered by the requirement that reviewers submit a discrete rating (stars) along with their textual review of a product or service. Many do not want to submit a rating and therefore avoid leaving a review at all.The goal of this project is to determine whether, and how well, unlabeled approaches to sentiment analysis (i.e.,lexical-based (TextBlob), transfer learning/DL (transformers))  approximate the actual star ratings that reviewers give.
+</div>
 
 ## Welcome to GitHub Pages
 
