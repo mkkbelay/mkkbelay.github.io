@@ -1,4 +1,5 @@
 title: <p align="center"> Merykokeb Belay </p>
+logo: "/images/profile_pic.png?raw=true"
 description:
   <p align="center">
   <a href="">Resume</a> |
@@ -7,9 +8,9 @@ description:
   </p>
   <p align="justify">
   I am pursing a MS degree in Data Science and Public Policy at McCourt School of Public Policy, Georgetown University.
-  <br><br>
-  Lorum Ipsum.
-  <br><br>
+  # <br><br>
+  # Lorum Ipsum.
+  # <br><br>
   </p>
   
 theme: jekyll-theme-minimal 
