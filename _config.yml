@@ -1,5 +1,5 @@
 title: <p align="center"> Merykokeb Belay </p>
-logo: <center><img src="images/profile_pic.png"/></center>
+#logo: <center><img src="images/profile_pic.png"/></center>
 description:
   <p align="center">
   <a href="">Resume</a> |
@@ -12,5 +12,5 @@ description:
   # Lorum Ipsum.
   # <br><br>
   </p>
-  
-theme: jekyll-theme-minimal 
+
+theme: jekyll-theme-minimal
