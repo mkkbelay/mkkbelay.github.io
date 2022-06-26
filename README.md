@@ -13,13 +13,15 @@
 
 ### Quasi-experimental design to estimate the effect of political party on ideology
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/statistics_projects/blob/main/regression_discontinuity.pdf)
-<div style="text-align: justify">This project uses a regression discontinuity design to determine if there is a causal relationship between congressional ideology and political party.</div>
+<center><img src="/images/regression_discontinuity.jpeg"/></center>
+<div style="text-align: justify">Do members of Congress respond to the median voter, regardless of ideology, or are they more distinctive in their voting patterns while in Congress? This project uses a regression discontinuity design to determine if there is a causal relationship between congressional ideology and political party.</div>
 
 
 ---
 
 ### Predicting access to healthful food retailers
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mkkbelay/predicting_food_environments/blob/main/white_paper_mb2478_v2.pdf)
+<center><img src="/images/predicting_foodenvts.jpeg"/></center>
 <div style="text-align: justify">It is no secret that the food we consume has a strong impact on our wellbeing. Ensuring that people have access the healthy and affordable foods is a key part of preventative public health measures. To better understand the social, demographic, and economic characteristics that define food accessibility and food environments, this project uses statistical learning techniques to understand and predict the different types of food environments in the United States</div>
 
 
